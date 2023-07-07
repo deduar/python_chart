@@ -1,6 +1,6 @@
 apiVersion: v2
-name: hello-world
-description: A Helm chart for Kubernetes
+name: aba-cfp
+description: A Helm chart for Kubernetes Abanca Carbon Footprint with kafka/zookeeper
 
 type: application
 version: 0.0.1
